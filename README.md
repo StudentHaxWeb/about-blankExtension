@@ -1,7 +1,7 @@
 # about-blankExtension
 Extension that opens StudentHax in an about:blank tab. V1
 
-Simple and straigt forward.
+Simple and straight forward.
 
 You may NOT publish your modified chrome extension to the chrome webstore.
 
